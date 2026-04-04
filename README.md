@@ -1,218 +1,127 @@
-Leetcode
-A collection of LeetCode questions to ace the coding interview! - Created using LeetHub v2
+🚀 LeetCode Problem Tracker
 
-LeetCode Topics
-Array
-0001-two-sum
-0015-3sum
-0026-remove-duplicates-from-sorted-array
-0034-find-first-and-last-position-of-element-in-sorted-array
-0035-search-insert-position
-0039-combination-sum
-0040-combination-sum-ii
-0046-permutations
-0053-maximum-subarray
-0054-spiral-matrix
-0075-sort-colors
-0121-best-time-to-buy-and-sell-stock
-0136-single-number
-0137-single-number-ii
-0215-kth-largest-element-in-an-array
-0283-move-zeroes
-0287-find-the-duplicate-number
-0350-intersection-of-two-arrays-ii
-0496-next-greater-element-i
-0704-binary-search
-0733-flood-fill
-0744-find-smallest-letter-greater-than-target
-0875-koko-eating-bananas
-1431-kids-with-the-greatest-number-of-candies
-1480-running-sum-of-1d-array
-1672-richest-customer-wealth
-1984-minimum-difference-between-highest-and-lowest-of-k-scores
-Two Pointers
-0015-3sum
-0026-remove-duplicates-from-sorted-array
-0075-sort-colors
-0141-linked-list-cycle
-0151-reverse-words-in-a-string
-0160-intersection-of-two-linked-lists
-0283-move-zeroes
-0287-find-the-duplicate-number
-0350-intersection-of-two-arrays-ii
-0392-is-subsequence
-0876-middle-of-the-linked-list
-Dynamic Programming
-0053-maximum-subarray
-0121-best-time-to-buy-and-sell-stock
-0392-is-subsequence
-0509-fibonacci-number
-Sorting
-0015-3sum
-0075-sort-colors
-0215-kth-largest-element-in-an-array
-0350-intersection-of-two-arrays-ii
-0987-vertical-order-traversal-of-a-binary-tree
-1984-minimum-difference-between-highest-and-lowest-of-k-scores
-2583-kth-largest-sum-in-a-binary-tree
-3010-divide-an-array-into-subarrays-with-minimum-cost-i
-Sliding Window
-0003-longest-substring-without-repeating-characters
-1984-minimum-difference-between-highest-and-lowest-of-k-scores
-2134-minimum-swaps-to-group-all-1s-together-ii
-Binary Search
-0034-find-first-and-last-position-of-element-in-sorted-array
-0035-search-insert-position
-0069-sqrtx
-0222-count-complete-tree-nodes
-0287-find-the-duplicate-number
-0350-intersection-of-two-arrays-ii
-0704-binary-search
-0744-find-smallest-letter-greater-than-target
-0875-koko-eating-bananas
-String
-0003-longest-substring-without-repeating-characters
-0020-valid-parentheses
-0067-add-binary
-0151-reverse-words-in-a-string
-Enumeration
-3010-divide-an-array-into-subarrays-with-minimum-cost-i
-Matrix
-0054-spiral-matrix
-0733-flood-fill
-Simulation
-0054-spiral-matrix
-0067-add-binary
-0412-fizz-buzz
-3379-transformed-array
-Linked List
-0025-reverse-nodes-in-k-group
-0083-remove-duplicates-from-sorted-list
-0138-copy-list-with-random-pointer
-0141-linked-list-cycle
-0160-intersection-of-two-linked-lists
-0876-middle-of-the-linked-list
-Hash Table
-0001-two-sum
-0003-longest-substring-without-repeating-characters
-0138-copy-list-with-random-pointer
-0141-linked-list-cycle
-0160-intersection-of-two-linked-lists
-0350-intersection-of-two-arrays-ii
-0496-next-greater-element-i
-0987-vertical-order-traversal-of-a-binary-tree
-Recursion
-0025-reverse-nodes-in-k-group
-0050-powx-n
-0231-power-of-two
-0509-fibonacci-number
-Bit Manipulation
-0029-divide-two-integers
-0067-add-binary
-0136-single-number
-0137-single-number-ii
-0190-reverse-bits
-0222-count-complete-tree-nodes
-0231-power-of-two
-0287-find-the-duplicate-number
-0693-binary-number-with-alternating-bits
-1009-complement-of-base-10-integer
-1342-number-of-steps-to-reduce-a-number-to-zero
-Tree
-0094-binary-tree-inorder-traversal
-0098-validate-binary-search-tree
-0100-same-tree
-0102-binary-tree-level-order-traversal
-0103-binary-tree-zigzag-level-order-traversal
-0110-balanced-binary-tree
-0222-count-complete-tree-nodes
-0230-kth-smallest-element-in-a-bst
-0450-delete-node-in-a-bst
-0938-range-sum-of-bst
-0987-vertical-order-traversal-of-a-binary-tree
-2583-kth-largest-sum-in-a-binary-tree
-Depth-First Search
-0094-binary-tree-inorder-traversal
-0098-validate-binary-search-tree
-0100-same-tree
-0110-balanced-binary-tree
-0230-kth-smallest-element-in-a-bst
-0547-number-of-provinces
-0733-flood-fill
-0938-range-sum-of-bst
-0987-vertical-order-traversal-of-a-binary-tree
-Binary Tree
-0094-binary-tree-inorder-traversal
-0098-validate-binary-search-tree
-0100-same-tree
-0102-binary-tree-level-order-traversal
-0103-binary-tree-zigzag-level-order-traversal
-0110-balanced-binary-tree
-0222-count-complete-tree-nodes
-0230-kth-smallest-element-in-a-bst
-0450-delete-node-in-a-bst
-0938-range-sum-of-bst
-0987-vertical-order-traversal-of-a-binary-tree
-2583-kth-largest-sum-in-a-binary-tree
-Stack
-0020-valid-parentheses
-0094-binary-tree-inorder-traversal
-0225-implement-stack-using-queues
-0496-next-greater-element-i
-0901-online-stock-span
-Design
-0225-implement-stack-using-queues
-0901-online-stock-span
-Queue
-0225-implement-stack-using-queues
-Monotonic Stack
-0496-next-greater-element-i
-0901-online-stock-span
-Data Stream
-0901-online-stock-span
-Math
-0007-reverse-integer
-0029-divide-two-integers
-0050-powx-n
-0067-add-binary
-0069-sqrtx
-0231-power-of-two
-0412-fizz-buzz
-0509-fibonacci-number
-1342-number-of-steps-to-reduce-a-number-to-zero
-Divide and Conquer
-0053-maximum-subarray
-0190-reverse-bits
-0215-kth-largest-element-in-an-array
-Breadth-First Search
-0100-same-tree
-0102-binary-tree-level-order-traversal
-0103-binary-tree-zigzag-level-order-traversal
-0547-number-of-provinces
-0733-flood-fill
-0987-vertical-order-traversal-of-a-binary-tree
-2583-kth-largest-sum-in-a-binary-tree
-Binary Search Tree
-0098-validate-binary-search-tree
-0230-kth-smallest-element-in-a-bst
-0450-delete-node-in-a-bst
-0938-range-sum-of-bst
-Heap (Priority Queue)
-0215-kth-largest-element-in-an-array
-Quickselect
-0215-kth-largest-element-in-an-array
-Union-Find
-0547-number-of-provinces
-Graph Theory
-0547-number-of-provinces
-Prefix Sum
-1480-running-sum-of-1d-array
-Number Theory
-0204-count-primes
-Memoization
-0509-fibonacci-number
-Backtracking
-0039-combination-sum
-0040-combination-sum-ii
-0046-permutations
-0090-subsets-ii
+A curated collection of LeetCode problems categorized by Data Structures & Algorithms topics to strengthen problem-solving skills and prepare for coding interviews.
+
+📌 Topics Covered
+🟦 Arrays
+0001 - Two Sum
+0015 - 3Sum
+0026 - Remove Duplicates from Sorted Array
+0034 - Find First and Last Position
+0035 - Search Insert Position
+0039 - Combination Sum
+0040 - Combination Sum II
+0046 - Permutations
+0053 - Maximum Subarray
+0054 - Spiral Matrix
+0075 - Sort Colors
+0121 - Best Time to Buy and Sell Stock
+0136 - Single Number
+0137 - Single Number II
+0215 - Kth Largest Element
+0283 - Move Zeroes
+0287 - Find Duplicate Number
+0350 - Intersection of Two Arrays II
+0496 - Next Greater Element I
+0704 - Binary Search
+0733 - Flood Fill
+0744 - Smallest Letter Greater Than Target
+0875 - Koko Eating Bananas
+1431 - Kids With Greatest Candies
+1480 - Running Sum
+1672 - Richest Customer Wealth
+1984 - Minimum Difference (K Scores)
+🟩 Two Pointers
+0015 - 3Sum
+0026 - Remove Duplicates
+0075 - Sort Colors
+0141 - Linked List Cycle
+0151 - Reverse Words in a String
+0160 - Intersection of Two Linked Lists
+0283 - Move Zeroes
+0287 - Find Duplicate Number
+0350 - Intersection of Arrays II
+0392 - Is Subsequence
+0876 - Middle of Linked List
+🟨 Sliding Window
+0003 - Longest Substring Without Repeating Characters
+1984 - Minimum Difference
+2134 - Minimum Swaps to Group 1s
+🟥 Binary Search
+0034 - First & Last Position
+0035 - Search Insert Position
+0069 - Sqrt(x)
+0222 - Count Complete Tree Nodes
+0287 - Find Duplicate Number
+0704 - Binary Search
+0744 - Smallest Letter Greater Than Target
+0875 - Koko Eating Bananas
+🟪 Dynamic Programming
+0053 - Maximum Subarray
+0121 - Best Time to Buy/Sell Stock
+0392 - Is Subsequence
+0509 - Fibonacci
+🟫 Strings
+0003 - Longest Substring
+0020 - Valid Parentheses
+0067 - Add Binary
+0151 - Reverse Words
+⬛ Linked List
+0025 - Reverse Nodes in K Group
+0083 - Remove Duplicates
+0138 - Copy List with Random Pointer
+0141 - Linked List Cycle
+0160 - Intersection of Linked Lists
+0876 - Middle of Linked List
+🌳 Trees / Binary Trees / BST
+0094 - Inorder Traversal
+0098 - Validate BST
+0100 - Same Tree
+0102 - Level Order Traversal
+0103 - Zigzag Traversal
+0110 - Balanced Binary Tree
+0222 - Count Complete Nodes
+0230 - Kth Smallest in BST
+0450 - Delete Node in BST
+0938 - Range Sum BST
+0987 - Vertical Order Traversal
+2583 - Kth Largest Sum
+🔵 Graphs / DFS / BFS / Union-Find
+0547 - Number of Provinces
+0733 - Flood Fill
+🟠 Stack / Queue / Monotonic Stack
+0020 - Valid Parentheses
+0225 - Implement Stack using Queues
+0496 - Next Greater Element I
+0901 - Online Stock Span
+⚫ Heap / Priority Queue / Quickselect
+0215 - Kth Largest Element
+🟢 Backtracking
+0039 - Combination Sum
+0040 - Combination Sum II
+0046 - Permutations
+0090 - Subsets II
+⚙️ Bit Manipulation
+0029 - Divide Two Integers
+0136 - Single Number
+0137 - Single Number II
+0190 - Reverse Bits
+0231 - Power of Two
+0287 - Find Duplicate
+0693 - Alternating Bits
+1009 - Complement of Base 10
+1342 - Steps to Reduce Number
+📐 Math
+0007 - Reverse Integer
+0029 - Divide Two Integers
+0050 - Pow(x, n)
+0067 - Add Binary
+0069 - Sqrt(x)
+0231 - Power of Two
+0412 - Fizz Buzz
+0509 - Fibonacci
+1342 - Reduce to Zero
+📊 Prefix Sum
+1480 - Running Sum
+🔢 Number Theory
+0204 - Count Primes
