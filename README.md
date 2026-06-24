@@ -156,3 +156,19 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 - 0196 - Delete Duplicate Emails  
 - 0584 - Find Customer Referee  
 - 0596 - Classes With at Least 5 Students  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Palak-sapra05/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Palak-sapra05/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Palak-sapra05/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+<!---LeetCode Topics End-->
