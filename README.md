@@ -216,4 +216,12 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Palak-sapra05/Leetcode/tree/master/0204-count-primes) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Palak-sapra05/Leetcode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Palak-sapra05/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
