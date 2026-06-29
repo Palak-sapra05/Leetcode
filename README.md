@@ -185,6 +185,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Palak-sapra05/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Palak-sapra05/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
@@ -205,6 +206,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Palak-sapra05/Leetcode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Palak-sapra05/Leetcode/tree/master/0204-count-primes) |
 ## Enumeration
 |  |
