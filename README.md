@@ -165,6 +165,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | [0204-count-primes](https://github.com/Palak-sapra05/Leetcode/tree/master/0204-count-primes) |
 | [0560-subarray-sum-equals-k](https://github.com/Palak-sapra05/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1109-corporate-flight-bookings](https://github.com/Palak-sapra05/Leetcode/tree/master/1109-corporate-flight-bookings) |
+| [1472-design-browser-history](https://github.com/Palak-sapra05/Leetcode/tree/master/1472-design-browser-history) |
 ## Hash Table
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | [0160-intersection-of-two-linked-lists](https://github.com/Palak-sapra05/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Palak-sapra05/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Palak-sapra05/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [1472-design-browser-history](https://github.com/Palak-sapra05/Leetcode/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -220,8 +222,18 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Palak-sapra05/Leetcode/tree/master/0155-min-stack) |
+| [1472-design-browser-history](https://github.com/Palak-sapra05/Leetcode/tree/master/1472-design-browser-history) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Palak-sapra05/Leetcode/tree/master/0155-min-stack) |
+| [1472-design-browser-history](https://github.com/Palak-sapra05/Leetcode/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Palak-sapra05/Leetcode/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Palak-sapra05/Leetcode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
