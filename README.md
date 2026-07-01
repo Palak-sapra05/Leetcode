@@ -166,6 +166,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | [0560-subarray-sum-equals-k](https://github.com/Palak-sapra05/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1109-corporate-flight-bookings](https://github.com/Palak-sapra05/Leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1472-design-browser-history](https://github.com/Palak-sapra05/Leetcode/tree/master/1472-design-browser-history) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Palak-sapra05/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -236,4 +237,12 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Palak-sapra05/Leetcode/tree/master/1472-design-browser-history) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/Palak-sapra05/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+## Simulation
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/Palak-sapra05/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
