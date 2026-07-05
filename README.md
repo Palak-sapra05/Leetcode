@@ -196,6 +196,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Palak-sapra05/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [1768-merge-strings-alternately](https://github.com/Palak-sapra05/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Tree
 |  |
 | ------- |
@@ -261,4 +262,8 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/Palak-sapra05/Leetcode/tree/master/0413-arithmetic-slices) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Palak-sapra05/Leetcode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
