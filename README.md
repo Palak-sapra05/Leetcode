@@ -204,6 +204,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Palak-sapra05/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Palak-sapra05/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Palak-sapra05/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Palak-sapra05/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Palak-sapra05/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Palak-sapra05/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Math
 |  |
 | ------- |
@@ -273,4 +275,8 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Palak-sapra05/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Palak-sapra05/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
