@@ -163,6 +163,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Palak-sapra05/Leetcode/tree/master/0204-count-primes) |
+| [0303-range-sum-query-immutable](https://github.com/Palak-sapra05/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0413-arithmetic-slices](https://github.com/Palak-sapra05/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Palak-sapra05/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Palak-sapra05/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -181,6 +182,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Palak-sapra05/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Palak-sapra05/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1109-corporate-flight-bookings](https://github.com/Palak-sapra05/Leetcode/tree/master/1109-corporate-flight-bookings) |
 ## Linked List
@@ -249,6 +251,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Palak-sapra05/Leetcode/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/Palak-sapra05/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1472-design-browser-history](https://github.com/Palak-sapra05/Leetcode/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
