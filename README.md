@@ -170,12 +170,14 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | [1472-design-browser-history](https://github.com/Palak-sapra05/Leetcode/tree/master/1472-design-browser-history) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Palak-sapra05/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Palak-sapra05/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Palak-sapra05/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Palak-sapra05/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Palak-sapra05/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Palak-sapra05/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Palak-sapra05/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -287,4 +289,8 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | [0098-validate-binary-search-tree](https://github.com/Palak-sapra05/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Palak-sapra05/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Palak-sapra05/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Counting
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Palak-sapra05/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
