@@ -162,6 +162,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 ## Array
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Palak-sapra05/Leetcode/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/Palak-sapra05/Leetcode/tree/master/0204-count-primes) |
 | [0303-range-sum-query-immutable](https://github.com/Palak-sapra05/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0413-arithmetic-slices](https://github.com/Palak-sapra05/Leetcode/tree/master/0413-arithmetic-slices) |
@@ -285,6 +286,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Palak-sapra05/Leetcode/tree/master/0164-maximum-gap) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Palak-sapra05/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Binary Search Tree
 |  |
@@ -296,4 +298,12 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 |  |
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Palak-sapra05/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Palak-sapra05/Leetcode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Palak-sapra05/Leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
