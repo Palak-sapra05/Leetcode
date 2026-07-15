@@ -173,6 +173,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Palak-sapra05/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Palak-sapra05/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Palak-sapra05/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Palak-sapra05/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -306,4 +307,12 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Palak-sapra05/Leetcode/tree/master/0164-maximum-gap) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Palak-sapra05/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Palak-sapra05/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
