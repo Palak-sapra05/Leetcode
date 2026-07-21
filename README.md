@@ -162,6 +162,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 ## Array
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Palak-sapra05/Leetcode/tree/master/0130-surrounded-regions) |
 | [0164-maximum-gap](https://github.com/Palak-sapra05/Leetcode/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/Palak-sapra05/Leetcode/tree/master/0204-count-primes) |
 | [0303-range-sum-query-immutable](https://github.com/Palak-sapra05/Leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -219,6 +220,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Palak-sapra05/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Palak-sapra05/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/Palak-sapra05/Leetcode/tree/master/0130-surrounded-regions) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Palak-sapra05/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Palak-sapra05/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Palak-sapra05/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -316,14 +318,17 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Palak-sapra05/Leetcode/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/Palak-sapra05/Leetcode/tree/master/1020-number-of-enclaves) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Palak-sapra05/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Palak-sapra05/Leetcode/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/Palak-sapra05/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Palak-sapra05/Leetcode/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/Palak-sapra05/Leetcode/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
