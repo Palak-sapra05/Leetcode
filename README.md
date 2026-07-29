@@ -202,6 +202,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | ------- |
 | [0050-powx-n](https://github.com/Palak-sapra05/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Palak-sapra05/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/Palak-sapra05/Leetcode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | ------- |
 | [0050-powx-n](https://github.com/Palak-sapra05/Leetcode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Palak-sapra05/Leetcode/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/Palak-sapra05/Leetcode/tree/master/0509-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Palak-sapra05/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Palak-sapra05/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Enumeration
@@ -280,6 +282,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Palak-sapra05/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0413-arithmetic-slices](https://github.com/Palak-sapra05/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0509-fibonacci-number](https://github.com/Palak-sapra05/Leetcode/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -331,4 +334,8 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | ------- |
 | [0130-surrounded-regions](https://github.com/Palak-sapra05/Leetcode/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/Palak-sapra05/Leetcode/tree/master/1020-number-of-enclaves) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Palak-sapra05/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
