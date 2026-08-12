@@ -224,6 +224,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | [0130-surrounded-regions](https://github.com/Palak-sapra05/Leetcode/tree/master/0130-surrounded-regions) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Palak-sapra05/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Palak-sapra05/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Palak-sapra05/Leetcode/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/Palak-sapra05/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -317,6 +318,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Palak-sapra05/Leetcode/tree/master/0547-number-of-provinces) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Palak-sapra05/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
 |  |
@@ -328,11 +330,13 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Palak-sapra05/Leetcode/tree/master/0130-surrounded-regions) |
+| [0547-number-of-provinces](https://github.com/Palak-sapra05/Leetcode/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/Palak-sapra05/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Palak-sapra05/Leetcode/tree/master/0130-surrounded-regions) |
+| [0547-number-of-provinces](https://github.com/Palak-sapra05/Leetcode/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/Palak-sapra05/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Memoization
 |  |
