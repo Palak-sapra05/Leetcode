@@ -296,6 +296,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/Palak-sapra05/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2027-minimum-moves-to-convert-string](https://github.com/Palak-sapra05/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 ## Sorting
 |  |
 | ------- |
@@ -353,4 +354,8 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Palak-sapra05/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [2027-minimum-moves-to-convert-string](https://github.com/Palak-sapra05/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 <!---LeetCode Topics End-->
