@@ -170,6 +170,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | [0413-arithmetic-slices](https://github.com/Palak-sapra05/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Palak-sapra05/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Palak-sapra05/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/Palak-sapra05/Leetcode/tree/master/0739-daily-temperatures) |
 | [1020-number-of-enclaves](https://github.com/Palak-sapra05/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1109-corporate-flight-bookings](https://github.com/Palak-sapra05/Leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1472-design-browser-history](https://github.com/Palak-sapra05/Leetcode/tree/master/1472-design-browser-history) |
@@ -262,6 +263,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Palak-sapra05/Leetcode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Palak-sapra05/Leetcode/tree/master/0739-daily-temperatures) |
 | [1472-design-browser-history](https://github.com/Palak-sapra05/Leetcode/tree/master/1472-design-browser-history) |
 ## Design
 |  |
@@ -363,4 +365,8 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 |  |
 | ------- |
 | [2027-minimum-moves-to-convert-string](https://github.com/Palak-sapra05/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Palak-sapra05/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
