@@ -251,6 +251,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | ------- |
 | [0050-powx-n](https://github.com/Palak-sapra05/Leetcode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Palak-sapra05/Leetcode/tree/master/0204-count-primes) |
+| [0292-nim-game](https://github.com/Palak-sapra05/Leetcode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/Palak-sapra05/Leetcode/tree/master/0509-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Palak-sapra05/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Palak-sapra05/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -376,4 +377,24 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Palak-sapra05/Leetcode/tree/master/0739-daily-temperatures) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Palak-sapra05/Leetcode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Palak-sapra05/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Palak-sapra05/Leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Palak-sapra05/Leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Palak-sapra05/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
