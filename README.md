@@ -171,6 +171,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | [0442-find-all-duplicates-in-an-array](https://github.com/Palak-sapra05/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Palak-sapra05/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/Palak-sapra05/Leetcode/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/Palak-sapra05/Leetcode/tree/master/0835-image-overlap) |
 | [1020-number-of-enclaves](https://github.com/Palak-sapra05/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1109-corporate-flight-bookings](https://github.com/Palak-sapra05/Leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1472-design-browser-history](https://github.com/Palak-sapra05/Leetcode/tree/master/1472-design-browser-history) |
@@ -350,6 +351,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Palak-sapra05/Leetcode/tree/master/0130-surrounded-regions) |
+| [0835-image-overlap](https://github.com/Palak-sapra05/Leetcode/tree/master/0835-image-overlap) |
 | [1020-number-of-enclaves](https://github.com/Palak-sapra05/Leetcode/tree/master/1020-number-of-enclaves) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Palak-sapra05/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Breadth-First Search
