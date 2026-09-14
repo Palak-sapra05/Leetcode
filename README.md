@@ -258,6 +258,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | [0204-count-primes](https://github.com/Palak-sapra05/Leetcode/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/Palak-sapra05/Leetcode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/Palak-sapra05/Leetcode/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/Palak-sapra05/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Palak-sapra05/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Palak-sapra05/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3870-count-commas-in-range](https://github.com/Palak-sapra05/Leetcode/tree/master/3870-count-commas-in-range) |
@@ -407,4 +408,8 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Palak-sapra05/Leetcode/tree/master/0292-nim-game) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Palak-sapra05/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
