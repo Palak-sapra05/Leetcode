@@ -165,6 +165,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Palak-sapra05/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/Palak-sapra05/Leetcode/tree/master/0130-surrounded-regions) |
 | [0164-maximum-gap](https://github.com/Palak-sapra05/Leetcode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Palak-sapra05/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Palak-sapra05/Leetcode/tree/master/0204-count-primes) |
 | [0303-range-sum-query-immutable](https://github.com/Palak-sapra05/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0413-arithmetic-slices](https://github.com/Palak-sapra05/Leetcode/tree/master/0413-arithmetic-slices) |
@@ -186,6 +187,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Palak-sapra05/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Palak-sapra05/Leetcode/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Palak-sapra05/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Palak-sapra05/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Palak-sapra05/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -321,6 +323,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Palak-sapra05/Leetcode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Palak-sapra05/Leetcode/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Palak-sapra05/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Palak-sapra05/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Palak-sapra05/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -336,6 +339,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Palak-sapra05/Leetcode/tree/master/0169-majority-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Palak-sapra05/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Bucket Sort
 |  |
@@ -380,6 +384,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Palak-sapra05/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Palak-sapra05/Leetcode/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -412,4 +417,8 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Palak-sapra05/Leetcode/tree/master/0836-rectangle-overlap) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Palak-sapra05/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
