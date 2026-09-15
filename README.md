@@ -218,6 +218,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Palak-sapra05/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1768-merge-strings-alternately](https://github.com/Palak-sapra05/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Palak-sapra05/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -309,6 +310,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | [0124-binary-tree-maximum-path-sum](https://github.com/Palak-sapra05/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0413-arithmetic-slices](https://github.com/Palak-sapra05/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/Palak-sapra05/Leetcode/tree/master/0509-fibonacci-number) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Palak-sapra05/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Palak-sapra05/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sliding Window
 |  |
@@ -319,6 +321,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/Palak-sapra05/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Palak-sapra05/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Palak-sapra05/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -389,6 +392,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 |  |
 | ------- |
 | [2027-minimum-moves-to-convert-string](https://github.com/Palak-sapra05/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Palak-sapra05/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
