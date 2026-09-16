@@ -198,6 +198,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | [0303-range-sum-query-immutable](https://github.com/Palak-sapra05/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Palak-sapra05/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1109-corporate-flight-bookings](https://github.com/Palak-sapra05/Leetcode/tree/master/1109-corporate-flight-bookings) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Palak-sapra05/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Linked List
 |  |
 | ------- |
@@ -264,6 +265,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | [0509-fibonacci-number](https://github.com/Palak-sapra05/Leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Palak-sapra05/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Palak-sapra05/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Palak-sapra05/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Palak-sapra05/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3870-count-commas-in-range](https://github.com/Palak-sapra05/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Palak-sapra05/Leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -311,6 +313,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | [0124-binary-tree-maximum-path-sum](https://github.com/Palak-sapra05/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0413-arithmetic-slices](https://github.com/Palak-sapra05/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/Palak-sapra05/Leetcode/tree/master/0509-fibonacci-number) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Palak-sapra05/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Palak-sapra05/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Palak-sapra05/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sliding Window
@@ -426,4 +429,8 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Palak-sapra05/Leetcode/tree/master/0169-majority-element) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Palak-sapra05/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
