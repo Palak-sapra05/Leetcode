@@ -176,6 +176,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | [1020-number-of-enclaves](https://github.com/Palak-sapra05/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1109-corporate-flight-bookings](https://github.com/Palak-sapra05/Leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1472-design-browser-history](https://github.com/Palak-sapra05/Leetcode/tree/master/1472-design-browser-history) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Palak-sapra05/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Palak-sapra05/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Palak-sapra05/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Palak-sapra05/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -190,6 +191,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | [0169-majority-element](https://github.com/Palak-sapra05/Leetcode/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Palak-sapra05/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Palak-sapra05/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Palak-sapra05/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Palak-sapra05/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Palak-sapra05/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
@@ -313,6 +315,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | [0124-binary-tree-maximum-path-sum](https://github.com/Palak-sapra05/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0413-arithmetic-slices](https://github.com/Palak-sapra05/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/Palak-sapra05/Leetcode/tree/master/0509-fibonacci-number) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Palak-sapra05/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Palak-sapra05/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Palak-sapra05/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Palak-sapra05/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -320,6 +323,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/Palak-sapra05/Leetcode/tree/master/0413-arithmetic-slices) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Palak-sapra05/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## String
 |  |
 | ------- |
@@ -341,6 +345,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Palak-sapra05/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Palak-sapra05/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Palak-sapra05/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Palak-sapra05/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Palak-sapra05/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Palak-sapra05/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Counting
