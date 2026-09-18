@@ -192,6 +192,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | [0442-find-all-duplicates-in-an-array](https://github.com/Palak-sapra05/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Palak-sapra05/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Palak-sapra05/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Palak-sapra05/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Palak-sapra05/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Palak-sapra05/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
@@ -327,6 +328,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 ## String
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Palak-sapra05/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/Palak-sapra05/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Palak-sapra05/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Palak-sapra05/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -336,6 +338,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | [0164-maximum-gap](https://github.com/Palak-sapra05/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Palak-sapra05/Leetcode/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Palak-sapra05/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Palak-sapra05/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Palak-sapra05/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Palak-sapra05/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search Tree
@@ -400,6 +403,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Palak-sapra05/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Palak-sapra05/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Palak-sapra05/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Monotonic Stack
