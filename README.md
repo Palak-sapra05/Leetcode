@@ -268,6 +268,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | [0509-fibonacci-number](https://github.com/Palak-sapra05/Leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Palak-sapra05/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Palak-sapra05/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Palak-sapra05/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Palak-sapra05/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Palak-sapra05/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3870-count-commas-in-range](https://github.com/Palak-sapra05/Leetcode/tree/master/3870-count-commas-in-range) |
@@ -434,6 +435,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Palak-sapra05/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Palak-sapra05/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
