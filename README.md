@@ -311,6 +311,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/Palak-sapra05/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [3498-reverse-degree-of-a-string](https://github.com/Palak-sapra05/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -333,6 +334,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | [1768-merge-strings-alternately](https://github.com/Palak-sapra05/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Palak-sapra05/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Palak-sapra05/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/Palak-sapra05/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
 | ------- |
