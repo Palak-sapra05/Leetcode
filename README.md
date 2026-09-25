@@ -195,6 +195,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | [0169-majority-element](https://github.com/Palak-sapra05/Leetcode/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Palak-sapra05/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Palak-sapra05/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1096-brace-expansion-ii](https://github.com/Palak-sapra05/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Palak-sapra05/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Palak-sapra05/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Palak-sapra05/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -297,6 +298,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | ------- |
 | [0155-min-stack](https://github.com/Palak-sapra05/Leetcode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Palak-sapra05/Leetcode/tree/master/0739-daily-temperatures) |
+| [1096-brace-expansion-ii](https://github.com/Palak-sapra05/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1472-design-browser-history](https://github.com/Palak-sapra05/Leetcode/tree/master/1472-design-browser-history) |
 ## Design
 |  |
@@ -341,6 +343,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 ## String
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Palak-sapra05/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Palak-sapra05/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/Palak-sapra05/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Palak-sapra05/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
@@ -352,6 +355,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | [0164-maximum-gap](https://github.com/Palak-sapra05/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Palak-sapra05/Leetcode/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Palak-sapra05/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1096-brace-expansion-ii](https://github.com/Palak-sapra05/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Palak-sapra05/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Palak-sapra05/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Palak-sapra05/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -400,6 +404,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | [0547-number-of-provinces](https://github.com/Palak-sapra05/Leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Palak-sapra05/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/Palak-sapra05/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1096-brace-expansion-ii](https://github.com/Palak-sapra05/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -462,4 +467,8 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Palak-sapra05/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Palak-sapra05/Leetcode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
