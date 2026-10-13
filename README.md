@@ -272,6 +272,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 | [0050-powx-n](https://github.com/Palak-sapra05/Leetcode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Palak-sapra05/Leetcode/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/Palak-sapra05/Leetcode/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/Palak-sapra05/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Palak-sapra05/Leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Palak-sapra05/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Palak-sapra05/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -321,6 +322,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Palak-sapra05/Leetcode/tree/master/0412-fizz-buzz) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Palak-sapra05/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3498-reverse-degree-of-a-string](https://github.com/Palak-sapra05/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -343,6 +345,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Palak-sapra05/Leetcode/tree/master/0412-fizz-buzz) |
 | [1096-brace-expansion-ii](https://github.com/Palak-sapra05/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Palak-sapra05/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/Palak-sapra05/Leetcode/tree/master/1768-merge-strings-alternately) |
