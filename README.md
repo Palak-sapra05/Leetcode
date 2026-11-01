@@ -478,6 +478,7 @@ A curated collection of LeetCode problems categorized by Data Structures & Algor
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/Palak-sapra05/Leetcode/tree/master/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/Palak-sapra05/Leetcode/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/Palak-sapra05/Leetcode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Palak-sapra05/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Palak-sapra05/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
